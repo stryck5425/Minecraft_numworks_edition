@@ -1,0 +1,1 @@
+this is the open source code for "Minecraft Numworks Edition" it allows you to have a version of minecraft on the "Numworks" graphing calculator all information and installations are available on "mne.vercel.app"
